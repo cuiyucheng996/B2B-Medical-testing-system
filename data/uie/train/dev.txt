@@ -1,0 +1,129 @@
+{"content": "晚上吐出来的东西带血，睡觉都不安生", "result_list": [{"text": "吐出来的东西带血", "start": 2, "end": 10}], "prompt": "疾病"}
+{"content": "晚上躺着憋得慌，得坐起来喘", "result_list": [{"text": "憋得慌", "start": 4, "end": 7}], "prompt": "疾病"}
+{"content": "晚上气喘，睡觉都不安生", "result_list": [{"text": "气喘", "start": 2, "end": 4}], "prompt": "疾病"}
+{"content": "晚上咯血，睡觉都不安生", "result_list": [{"text": "咯血", "start": 2, "end": 4}], "prompt": "疾病"}
+{"content": "昨天都气喘，吓死我了", "result_list": [{"text": "气喘", "start": 3, "end": 5}], "prompt": "疾病"}
+{"content": "我跟家里人说我癫痫", "result_list": [{"text": "癫痫", "start": 7, "end": 9}], "prompt": "疾病"}
+{"content": "这两天动不动就吐出来的东西带血", "result_list": [{"text": "吐出来的东西带血", "start": 7, "end": 15}], "prompt": "疾病"}
+{"content": "心跳跟打鼓似的心慌", "result_list": [{"text": "心慌", "start": 7, "end": 9}], "prompt": "疾病"}
+{"content": "晚上偏头疼，睡觉都不安生", "result_list": [{"text": "偏头疼", "start": 2, "end": 5}], "prompt": "疾病"}
+{"content": "晚上偏头疼，睡觉都不安生", "result_list": [{"text": "头疼", "start": 3, "end": 5}], "prompt": "症状"}
+{"content": "晚上偏头疼，睡觉都不安生", "result_list": [{"text": "头疼", "start": 3, "end": 5}], "prompt": "部位"}
+{"content": "晚上失眠，睡觉都不安生", "result_list": [{"text": "失眠", "start": 2, "end": 4}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老尿不出来", "result_list": [{"text": "尿不出来", "start": 8, "end": 12}], "prompt": "疾病"}
+{"content": "这两天动不动就痰里有血", "result_list": [{"text": "痰里有血", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "我跟家里人说我心跳快", "result_list": [{"text": "心跳快", "start": 7, "end": 10}], "prompt": "疾病"}
+{"content": "这两天动不动就皮肤发黄", "result_list": [{"text": "皮肤发黄", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "我跟家里人说我牙龈出血", "result_list": [{"text": "牙龈出血", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "手脚发麻跟过电似的", "result_list": [{"text": "手脚", "start": 0, "end": 2}], "prompt": "部位"}
+{"content": "手脚发麻跟过电似的", "result_list": [{"text": "手脚发麻", "start": 0, "end": 4}], "prompt": "症状"}
+{"content": "昨天都眼皮肿，吓死我了", "result_list": [{"text": "眼皮肿", "start": 3, "end": 6}], "prompt": "疾病"}
+{"content": "这两天动不动就拉不出来", "result_list": [{"text": "拉不出来", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "早上咳了两口，里面带点血", "result_list": [{"text": "带点血", "start": 9, "end": 12}], "prompt": "疾病"}
+{"content": "这两天动不动就天旋地转", "result_list": [{"text": "天旋地转", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "这两天动不动就流鼻血", "result_list": [{"text": "流鼻血", "start": 7, "end": 10}], "prompt": "疾病"}
+{"content": "突然嘴歪了，说话大舌头", "result_list": [{"text": "嘴歪", "start": 2, "end": 4}, {"text": "说话大舌头", "start": 6, "end": 11}], "prompt": "疾病"}
+{"content": "上不来气，走两步就喘", "result_list": [{"text": "上不来气", "start": 0, "end": 4}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老胃胀", "result_list": [{"text": "胃胀", "start": 8, "end": 10}], "prompt": "疾病"}
+{"content": "腿肿得鞋都穿不进去", "result_list": [{"text": "腿肿", "start": 0, "end": 2}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老呕血", "result_list": [{"text": "呕血", "start": 8, "end": 10}], "prompt": "疾病"}
+{"content": "昨天都咳出了血，吓死我了", "result_list": [{"text": "咳出了血", "start": 3, "end": 7}], "prompt": "疾病"}
+{"content": "昨天都关节疼，吓死我了", "result_list": [{"text": "关节疼", "start": 3, "end": 6}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老感冒", "result_list": [{"text": "感冒", "start": 8, "end": 10}], "prompt": "疾病"}
+{"content": "我跟家里人说我咳痰带血", "result_list": [{"text": "咳痰带血", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "这两天动不动就身体浮肿", "result_list": [{"text": "身体浮肿", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "腰不太舒服,有点晕,还浑身没劲", "result_list": [{"text": "腰", "start": 0, "end": 1}, {"text": "有点晕", "start": 6, "end": 9}], "prompt": "部位"}
+{"content": "腰不太舒服,有点晕,还浑身没劲", "result_list": [{"text": "有点晕", "start": 6, "end": 9}, {"text": "浑身没劲", "start": 11, "end": 15}], "prompt": "症状"}
+{"content": "我跟家里人说我口吐白沫", "result_list": [{"text": "口吐白沫", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "这两天动不动就咳嗽带血", "result_list": [{"text": "咳嗽带血", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老打嗝停不了", "result_list": [{"text": "打嗝停不了", "start": 8, "end": 13}], "prompt": "疾病"}
+{"content": "昨天都咳出点血出来 吓死我了", "result_list": [{"text": "咳出点血", "start": 3, "end": 7}], "prompt": "疾病"}
+{"content": "不知道怎么搞的老呕吐物有血", "result_list": [{"text": "呕吐物有血", "start": 8, "end": 13}], "prompt": "疾病"}
+{"content": "我跟家里人说我脸肿", "result_list": [{"text": "脸肿", "start": 7, "end": 9}], "prompt": "疾病"}
+{"content": "我跟家里人说我睡不着", "result_list": [{"text": "睡不着", "start": 7, "end": 10}], "prompt": "疾病"}
+{"content": "我跟家里人说我睡不着", "result_list": [{"text": "睡不着", "start": 7, "end": 10}], "prompt": "症状"}
+{"content": "晚上咳痰带血，睡觉都不安生", "result_list": [{"text": "咳痰带血", "start": 2, "end": 6}], "prompt": "疾病"}
+{"content": "心口不太舒服,有点晕,还浑身没劲", "result_list": [{"text": "心口", "start": 0, "end": 2}, {"text": "有点晕", "start": 7, "end": 10}], "prompt": "部位"}
+{"content": "心口不太舒服,有点晕,还浑身没劲", "result_list": [{"text": "有点晕", "start": 7, "end": 10}, {"text": "浑身没劲", "start": 12, "end": 16}], "prompt": "症状"}
+{"content": "这两天动不动就手脚麻木", "result_list": [{"text": "手脚", "start": 7, "end": 9}], "prompt": "部位"}
+{"content": "这两天动不动就手脚麻木", "result_list": [{"text": "手脚麻木", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "我跟家里人说我眼睛发黄", "result_list": [{"text": "眼睛发黄", "start": 7, "end": 11}], "prompt": "疾病"}
+{"content": "晚上吐出来的东西带血，睡觉都不安生", "result_list": [], "prompt": "症状"}
+{"content": "晚上吐出来的东西带血，睡觉都不安生", "result_list": [], "prompt": "部位"}
+{"content": "晚上躺着憋得慌，得坐起来喘", "result_list": [], "prompt": "症状"}
+{"content": "晚上躺着憋得慌，得坐起来喘", "result_list": [], "prompt": "部位"}
+{"content": "晚上气喘，睡觉都不安生", "result_list": [], "prompt": "症状"}
+{"content": "晚上气喘，睡觉都不安生", "result_list": [], "prompt": "部位"}
+{"content": "晚上咯血，睡觉都不安生", "result_list": [], "prompt": "症状"}
+{"content": "晚上咯血，睡觉都不安生", "result_list": [], "prompt": "部位"}
+{"content": "昨天都气喘，吓死我了", "result_list": [], "prompt": "症状"}
+{"content": "昨天都气喘，吓死我了", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我癫痫", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我癫痫", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就吐出来的东西带血", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就吐出来的东西带血", "result_list": [], "prompt": "部位"}
+{"content": "心跳跟打鼓似的心慌", "result_list": [], "prompt": "症状"}
+{"content": "心跳跟打鼓似的心慌", "result_list": [], "prompt": "部位"}
+{"content": "晚上失眠，睡觉都不安生", "result_list": [], "prompt": "症状"}
+{"content": "晚上失眠，睡觉都不安生", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老尿不出来", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老尿不出来", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就痰里有血", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就痰里有血", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我心跳快", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我心跳快", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就皮肤发黄", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就皮肤发黄", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我牙龈出血", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我牙龈出血", "result_list": [], "prompt": "部位"}
+{"content": "手脚发麻跟过电似的", "result_list": [], "prompt": "疾病"}
+{"content": "昨天都眼皮肿，吓死我了", "result_list": [], "prompt": "症状"}
+{"content": "昨天都眼皮肿，吓死我了", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就拉不出来", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就拉不出来", "result_list": [], "prompt": "部位"}
+{"content": "早上咳了两口，里面带点血", "result_list": [], "prompt": "症状"}
+{"content": "早上咳了两口，里面带点血", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就天旋地转", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就天旋地转", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就流鼻血", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就流鼻血", "result_list": [], "prompt": "部位"}
+{"content": "突然嘴歪了，说话大舌头", "result_list": [], "prompt": "症状"}
+{"content": "突然嘴歪了，说话大舌头", "result_list": [], "prompt": "部位"}
+{"content": "上不来气，走两步就喘", "result_list": [], "prompt": "症状"}
+{"content": "上不来气，走两步就喘", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老胃胀", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老胃胀", "result_list": [], "prompt": "部位"}
+{"content": "腿肿得鞋都穿不进去", "result_list": [], "prompt": "症状"}
+{"content": "腿肿得鞋都穿不进去", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老呕血", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老呕血", "result_list": [], "prompt": "部位"}
+{"content": "昨天都咳出了血，吓死我了", "result_list": [], "prompt": "症状"}
+{"content": "昨天都咳出了血，吓死我了", "result_list": [], "prompt": "部位"}
+{"content": "昨天都关节疼，吓死我了", "result_list": [], "prompt": "症状"}
+{"content": "昨天都关节疼，吓死我了", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老感冒", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老感冒", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我咳痰带血", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我咳痰带血", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就身体浮肿", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就身体浮肿", "result_list": [], "prompt": "部位"}
+{"content": "腰不太舒服,有点晕,还浑身没劲", "result_list": [], "prompt": "疾病"}
+{"content": "我跟家里人说我口吐白沫", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我口吐白沫", "result_list": [], "prompt": "部位"}
+{"content": "这两天动不动就咳嗽带血", "result_list": [], "prompt": "症状"}
+{"content": "这两天动不动就咳嗽带血", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老打嗝停不了", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老打嗝停不了", "result_list": [], "prompt": "部位"}
+{"content": "昨天都咳出点血出来 吓死我了", "result_list": [], "prompt": "症状"}
+{"content": "昨天都咳出点血出来 吓死我了", "result_list": [], "prompt": "部位"}
+{"content": "不知道怎么搞的老呕吐物有血", "result_list": [], "prompt": "症状"}
+{"content": "不知道怎么搞的老呕吐物有血", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我脸肿", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我脸肿", "result_list": [], "prompt": "部位"}
+{"content": "我跟家里人说我睡不着", "result_list": [], "prompt": "部位"}
+{"content": "晚上咳痰带血，睡觉都不安生", "result_list": [], "prompt": "症状"}
+{"content": "晚上咳痰带血，睡觉都不安生", "result_list": [], "prompt": "部位"}
+{"content": "心口不太舒服,有点晕,还浑身没劲", "result_list": [], "prompt": "疾病"}
+{"content": "这两天动不动就手脚麻木", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我眼睛发黄", "result_list": [], "prompt": "症状"}
+{"content": "我跟家里人说我眼睛发黄", "result_list": [], "prompt": "部位"}

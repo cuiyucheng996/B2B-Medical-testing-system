@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>B2B 辨证测试台</title>
+  <link rel="stylesheet" href="/static/style.css?v=4" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h1>B2B 辨证测试台</h1>
+      <p class="subtitle">部位 → 疾病 → 主症 → 辅助症状</p>
+      <section class="panel">
+        <div class="field"><label>API Key（可选）</label><input id="apiKey" type="password" autocomplete="off" placeholder="X-API-Key，写入 .env 的 B2B_API_KEY 时必填" /></div>
+        <div class="field"><label>org_id</label><input id="orgId" placeholder="机构 ID" /></div>
+        <div class="field"><label>thread_id</label><input id="threadId" readonly /></div>
+        <div class="btn-row">
+          <button id="btnNew" class="primary">新建会话</button>
+          <button id="btnRefresh">刷新</button>
+        </div>
+      </section>
+      <section class="panel">
+        <h2>当前轮次 <span id="roundBadge">-</span></h2>
+        <div id="optionList" class="options"></div>
+      </section>
+    </aside>
+    <main class="main">
+      <section class="panel chat-panel">
+        <div id="messages" class="messages"></div>
+        <div class="composer">
+          <input id="messageInput" placeholder="输入文字（症状可多选后也可打字补充）..." />
+          <button id="btnSend" class="primary">发送</button>
+        </div>
+      </section>
+      <section class="panel">
+        <h2>状态</h2>
+        <div class="state-split">
+          <div class="state-col">
+            <h3>整体输出</h3>
+            <pre id="stateDump">就绪</pre>
+          </div>
+          <div class="state-col">
+            <h3>Checkpoint</h3>
+            <pre id="checkpointDump">-</pre>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="/static/app.js?v=14"></script>
+</body>
+</html>

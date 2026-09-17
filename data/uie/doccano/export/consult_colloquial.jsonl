@@ -1,0 +1,429 @@
+{"id": 1, "text": "昨天都咳出点血出来 吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 2, "text": "咳嗽的时候痰里有血丝", "entities": [{"start_offset": 5, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 3, "text": "早上咳了两口，里面带点血", "entities": [{"start_offset": 9, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 4, "text": "老流鼻血，纸巾一擦全是红的", "entities": [{"start_offset": 1, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 5, "text": "刷牙一出血，吐出来一池子红", "entities": [], "relations": []}
+{"id": 6, "text": "突然嘴歪了，说话大舌头", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 6, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 7, "text": "半边身子不太听使唤了", "entities": [{"start_offset": 0, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 8, "text": "他突然抽风口吐白沫", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 5, "end_offset": 9, "label": "疾病", "id": 1}], "relations": []}
+{"id": 9, "text": "老爷子记性差，问啥都忘", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 10, "text": "脑袋跟灌铅似的，天旋地转", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 1}], "relations": []}
+{"id": 11, "text": "站起来眼前一黑头昏眼花", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 12, "text": "脑壳疼得想撞墙", "entities": [{"start_offset": 0, "end_offset": 3, "label": "疾病", "id": 0}], "relations": []}
+{"id": 13, "text": "上不来气，走两步就喘", "entities": [{"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 14, "text": "晚上躺着憋得慌，得坐起来喘", "entities": [{"start_offset": 4, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 15, "text": "心口窝一阵阵疼", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 0, "end_offset": 3, "label": "部位", "id": 1}, {"start_offset": 3, "end_offset": 7, "label": "症状", "id": 2}], "relations": []}
+{"id": 16, "text": "心口窝疼，吃完饭更厉害", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 1}], "relations": []}
+{"id": 17, "text": "胃堵得慌，吃不下东西", "entities": [{"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 18, "text": "肚子绞痛，在床上直打滚", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 1}], "relations": []}
+{"id": 19, "text": "老是打嗝停不下来", "entities": [{"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 20, "text": "吃啥吐啥，胃里直翻", "entities": [{"start_offset": 5, "end_offset": 9, "label": "症状", "id": 0}], "relations": []}
+{"id": 21, "text": "心跳跟打鼓似的心慌", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 22, "text": "胸口发闷，压着一块石头", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 0, "end_offset": 4, "label": "疾病", "id": 1}], "relations": []}
+{"id": 23, "text": "两肋那块胀痛", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 4, "end_offset": 6, "label": "症状", "id": 1}], "relations": []}
+{"id": 24, "text": "肋骨边一按就疼", "entities": [{"start_offset": 0, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 25, "text": "拉肚子拉清水，一天七八趟", "entities": [{"start_offset": 0, "end_offset": 3, "label": "疾病", "id": 0}, {"start_offset": 0, "end_offset": 3, "label": "症状", "id": 1}, {"start_offset": 1, "end_offset": 3, "label": "部位", "id": 2}], "relations": []}
+{"id": 26, "text": "好几天大便干得拉不出来", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 27, "text": "想尿尿不出来，小肚子胀", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 1}], "relations": []}
+{"id": 28, "text": "尿频尿急还刺痛", "entities": [{"start_offset": 0, "end_offset": 2, "label": "症状", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "症状", "id": 1}], "relations": []}
+{"id": 29, "text": "脸上肿得眼睛都眯缝了", "entities": [{"start_offset": 0, "end_offset": 3, "label": "疾病", "id": 0}], "relations": []}
+{"id": 30, "text": "腿肿得鞋都穿不进去", "entities": [{"start_offset": 0, "end_offset": 2, "label": "疾病", "id": 0}], "relations": []}
+{"id": 31, "text": "眼睛眼白都发黄", "entities": [{"start_offset": 5, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 32, "text": "整夜睡不着，眼睛瞪到天亮", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "症状", "id": 1}], "relations": []}
+{"id": 33, "text": "腰直不起来，弯个腰都费劲", "entities": [{"start_offset": 0, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 34, "text": "关节又酸又僵，早晨下不了地", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 35, "text": "身上青一块紫一块", "entities": [{"start_offset": 2, "end_offset": 8, "label": "疾病", "id": 0}], "relations": []}
+{"id": 36, "text": "我脑袋不舒服，说不清哪儿", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}, {"start_offset": 1, "end_offset": 6, "label": "部位", "id": 1}], "relations": []}
+{"id": 37, "text": "脑袋不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 6, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 2}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 3}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 4}], "relations": []}
+{"id": 38, "text": "就是脖子转的时候晕", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 9, "label": "症状", "id": 1}], "relations": []}
+{"id": 39, "text": "胸口这块总不对劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 40, "text": "肚子那块胀胀的", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 4, "end_offset": 7, "label": "症状", "id": 1}], "relations": []}
+{"id": 41, "text": "腰这一片又酸又沉", "entities": [{"start_offset": 0, "end_offset": 1, "label": "部位", "id": 0}], "relations": []}
+{"id": 42, "text": "手脚发麻跟过电似的", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 0, "end_offset": 4, "label": "症状", "id": 1}], "relations": []}
+{"id": 43, "text": "想出去玩", "entities": [], "relations": []}
+{"id": 44, "text": "谢谢医生", "entities": [], "relations": []}
+{"id": 45, "text": "你好在吗", "entities": [], "relations": []}
+{"id": 46, "text": "昨天都感冒，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 47, "text": "晚上感冒，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 48, "text": "不知道怎么搞的老感冒", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 49, "text": "这两天动不动就感冒", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 50, "text": "我跟家里人说我感冒", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 51, "text": "昨天都着凉，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 52, "text": "晚上着凉，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 53, "text": "不知道怎么搞的老着凉", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 54, "text": "这两天动不动就着凉", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 55, "text": "我跟家里人说我着凉", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 56, "text": "昨天都偏头疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}, {"start_offset": 4, "end_offset": 6, "label": "症状", "id": 1}, {"start_offset": 4, "end_offset": 6, "label": "部位", "id": 2}], "relations": []}
+{"id": 57, "text": "晚上偏头疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "症状", "id": 1}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 2}], "relations": []}
+{"id": 58, "text": "不知道怎么搞的老偏头疼", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}, {"start_offset": 9, "end_offset": 11, "label": "症状", "id": 1}, {"start_offset": 9, "end_offset": 11, "label": "部位", "id": 2}], "relations": []}
+{"id": 59, "text": "这两天动不动就偏头疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 60, "text": "我跟家里人说我偏头疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 61, "text": "昨天都头疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "症状", "id": 1}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 2}], "relations": []}
+{"id": 62, "text": "晚上头疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "症状", "id": 1}, {"start_offset": 2, "end_offset": 4, "label": "部位", "id": 2}], "relations": []}
+{"id": 63, "text": "不知道怎么搞的老头疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 64, "text": "这两天动不动就头疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 2}], "relations": []}
+{"id": 65, "text": "我跟家里人说我头疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 2}], "relations": []}
+{"id": 66, "text": "昨天都脑袋疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 1}, {"start_offset": 3, "end_offset": 6, "label": "症状", "id": 2}], "relations": []}
+{"id": 67, "text": "晚上脑袋疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 1}, {"start_offset": 2, "end_offset": 5, "label": "症状", "id": 2}], "relations": []}
+{"id": 68, "text": "不知道怎么搞的老脑袋疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 1}, {"start_offset": 8, "end_offset": 11, "label": "症状", "id": 2}], "relations": []}
+{"id": 69, "text": "这两天动不动就脑袋疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 2}], "relations": []}
+{"id": 70, "text": "我跟家里人说我脑袋疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 2}], "relations": []}
+{"id": 71, "text": "昨天都头胀，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 72, "text": "晚上头胀，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 73, "text": "不知道怎么搞的老头胀", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 74, "text": "这两天动不动就头胀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 75, "text": "我跟家里人说我头胀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 76, "text": "昨天都脑壳疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 77, "text": "晚上脑壳疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 78, "text": "不知道怎么搞的老脑壳疼", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 79, "text": "这两天动不动就脑壳疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 80, "text": "我跟家里人说我脑壳疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 81, "text": "昨天都头晕，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "症状", "id": 1}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 2}], "relations": []}
+{"id": 82, "text": "晚上头晕，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "症状", "id": 1}, {"start_offset": 2, "end_offset": 4, "label": "部位", "id": 2}], "relations": []}
+{"id": 83, "text": "不知道怎么搞的老头晕", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 84, "text": "这两天动不动就头晕", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 2}], "relations": []}
+{"id": 85, "text": "我跟家里人说我头晕", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 2}], "relations": []}
+{"id": 86, "text": "昨天都天旋地转，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 87, "text": "晚上天旋地转，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 88, "text": "不知道怎么搞的老天旋地转", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 89, "text": "这两天动不动就天旋地转", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 90, "text": "我跟家里人说我天旋地转", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 91, "text": "昨天都头昏眼花，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 92, "text": "晚上头昏眼花，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 93, "text": "不知道怎么搞的老头昏眼花", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 94, "text": "这两天动不动就头昏眼花", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 95, "text": "我跟家里人说我头昏眼花", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 96, "text": "昨天都抽风，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 97, "text": "晚上抽风，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 98, "text": "不知道怎么搞的老抽风", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 99, "text": "这两天动不动就抽风", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 100, "text": "我跟家里人说我抽风", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 101, "text": "昨天都癫痫，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 102, "text": "晚上癫痫，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 103, "text": "不知道怎么搞的老癫痫", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 104, "text": "这两天动不动就癫痫", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 105, "text": "我跟家里人说我癫痫", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 106, "text": "昨天都口吐白沫，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 107, "text": "晚上口吐白沫，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 108, "text": "不知道怎么搞的老口吐白沫", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 109, "text": "这两天动不动就口吐白沫", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 110, "text": "我跟家里人说我口吐白沫", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 111, "text": "昨天都老年痴呆，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 112, "text": "晚上老年痴呆，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 113, "text": "不知道怎么搞的老老年痴呆", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 114, "text": "这两天动不动就老年痴呆", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 115, "text": "我跟家里人说我老年痴呆", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 116, "text": "昨天都记性差，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 117, "text": "晚上记性差，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 118, "text": "不知道怎么搞的老记性差", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 119, "text": "这两天动不动就记性差", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 120, "text": "我跟家里人说我记性差", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 121, "text": "昨天都流鼻血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 122, "text": "晚上流鼻血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 123, "text": "不知道怎么搞的老流鼻血", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 124, "text": "这两天动不动就流鼻血", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 125, "text": "我跟家里人说我流鼻血", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 126, "text": "昨天都鼻子出血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 127, "text": "晚上鼻子出血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 128, "text": "不知道怎么搞的老鼻子出血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 129, "text": "这两天动不动就鼻子出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 130, "text": "我跟家里人说我鼻子出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 131, "text": "昨天都牙龈出血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 132, "text": "晚上牙龈出血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 133, "text": "不知道怎么搞的老牙龈出血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 134, "text": "这两天动不动就牙龈出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 135, "text": "我跟家里人说我牙龈出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 136, "text": "昨天都刷牙出血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 137, "text": "晚上刷牙出血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 138, "text": "不知道怎么搞的老刷牙出血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 139, "text": "这两天动不动就刷牙出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 140, "text": "我跟家里人说我刷牙出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 141, "text": "昨天都咳出点血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 142, "text": "晚上咳出点血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 143, "text": "不知道怎么搞的老咳出点血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 144, "text": "这两天动不动就咳出点血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 145, "text": "我跟家里人说我咳出点血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 146, "text": "昨天都咳出了血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 147, "text": "晚上咳出了血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 148, "text": "不知道怎么搞的老咳出了血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 149, "text": "这两天动不动就咳出了血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 150, "text": "我跟家里人说我咳出了血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 151, "text": "昨天都咳出血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 152, "text": "晚上咳出血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 153, "text": "不知道怎么搞的老咳出血", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 154, "text": "这两天动不动就咳出血", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 155, "text": "我跟家里人说我咳出血", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 156, "text": "昨天都咳嗽带血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 157, "text": "晚上咳嗽带血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 158, "text": "不知道怎么搞的老咳嗽带血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 159, "text": "这两天动不动就咳嗽带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 160, "text": "我跟家里人说我咳嗽带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 161, "text": "昨天都痰里有血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 162, "text": "晚上痰里有血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 163, "text": "不知道怎么搞的老痰里有血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 164, "text": "这两天动不动就痰里有血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 165, "text": "我跟家里人说我痰里有血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 166, "text": "昨天都痰中带血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 167, "text": "晚上痰中带血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 168, "text": "不知道怎么搞的老痰中带血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 169, "text": "这两天动不动就痰中带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 170, "text": "我跟家里人说我痰中带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 171, "text": "昨天都咳痰带血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 172, "text": "晚上咳痰带血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 173, "text": "不知道怎么搞的老咳痰带血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 174, "text": "这两天动不动就咳痰带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 175, "text": "我跟家里人说我咳痰带血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 176, "text": "昨天都咯血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 177, "text": "晚上咯血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 178, "text": "不知道怎么搞的老咯血", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 179, "text": "这两天动不动就咯血", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 180, "text": "我跟家里人说我咯血", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 181, "text": "昨天都呕血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 182, "text": "晚上呕血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 183, "text": "不知道怎么搞的老呕血", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 184, "text": "这两天动不动就呕血", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 185, "text": "我跟家里人说我呕血", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 186, "text": "昨天都呕吐物有血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 8, "label": "疾病", "id": 0}], "relations": []}
+{"id": 187, "text": "晚上呕吐物有血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 188, "text": "不知道怎么搞的老呕吐物有血", "entities": [{"start_offset": 8, "end_offset": 13, "label": "疾病", "id": 0}], "relations": []}
+{"id": 189, "text": "这两天动不动就呕吐物有血", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 190, "text": "我跟家里人说我呕吐物有血", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 191, "text": "昨天都吐出来的东西带血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 192, "text": "晚上吐出来的东西带血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 193, "text": "不知道怎么搞的老吐出来的东西带血", "entities": [{"start_offset": 8, "end_offset": 16, "label": "疾病", "id": 0}], "relations": []}
+{"id": 194, "text": "这两天动不动就吐出来的东西带血", "entities": [{"start_offset": 7, "end_offset": 15, "label": "疾病", "id": 0}], "relations": []}
+{"id": 195, "text": "我跟家里人说我吐出来的东西带血", "entities": [{"start_offset": 7, "end_offset": 15, "label": "疾病", "id": 0}], "relations": []}
+{"id": 196, "text": "昨天都喘不上气，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 197, "text": "晚上喘不上气，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 198, "text": "不知道怎么搞的老喘不上气", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 199, "text": "这两天动不动就喘不上气", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 200, "text": "我跟家里人说我喘不上气", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 201, "text": "昨天都气喘，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 202, "text": "晚上气喘，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 203, "text": "不知道怎么搞的老气喘", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 204, "text": "这两天动不动就气喘", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 205, "text": "我跟家里人说我气喘", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 206, "text": "昨天都呼吸困难，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 207, "text": "晚上呼吸困难，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 208, "text": "不知道怎么搞的老呼吸困难", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 209, "text": "这两天动不动就呼吸困难", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 210, "text": "我跟家里人说我呼吸困难", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 211, "text": "昨天都上气不接下气，吓死我了", "entities": [{"start_offset": 3, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 212, "text": "晚上上气不接下气，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 8, "label": "疾病", "id": 0}], "relations": []}
+{"id": 213, "text": "不知道怎么搞的老上气不接下气", "entities": [{"start_offset": 8, "end_offset": 14, "label": "疾病", "id": 0}], "relations": []}
+{"id": 214, "text": "这两天动不动就上气不接下气", "entities": [{"start_offset": 7, "end_offset": 13, "label": "疾病", "id": 0}], "relations": []}
+{"id": 215, "text": "我跟家里人说我上气不接下气", "entities": [{"start_offset": 7, "end_offset": 13, "label": "疾病", "id": 0}], "relations": []}
+{"id": 216, "text": "昨天都两肋疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 217, "text": "晚上两肋疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 218, "text": "不知道怎么搞的老两肋疼", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 219, "text": "这两天动不动就两肋疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 220, "text": "我跟家里人说我两肋疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 221, "text": "昨天都肋骨边疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 222, "text": "晚上肋骨边疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 223, "text": "不知道怎么搞的老肋骨边疼", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 224, "text": "这两天动不动就肋骨边疼", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 225, "text": "我跟家里人说我肋骨边疼", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 226, "text": "昨天都心慌，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 227, "text": "晚上心慌，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 228, "text": "不知道怎么搞的老心慌", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 229, "text": "这两天动不动就心慌", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 230, "text": "我跟家里人说我心慌", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 231, "text": "昨天都心跳快，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 232, "text": "晚上心跳快，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 233, "text": "不知道怎么搞的老心跳快", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 234, "text": "这两天动不动就心跳快", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 235, "text": "我跟家里人说我心跳快", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 236, "text": "昨天都心怦怦跳，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 237, "text": "晚上心怦怦跳，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 238, "text": "不知道怎么搞的老心怦怦跳", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 239, "text": "这两天动不动就心怦怦跳", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 240, "text": "我跟家里人说我心怦怦跳", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 241, "text": "昨天都胸口疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 242, "text": "晚上胸口疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 1}], "relations": []}
+{"id": 243, "text": "不知道怎么搞的老胸口疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 244, "text": "这两天动不动就胸口疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 245, "text": "我跟家里人说我胸口疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 246, "text": "昨天都心口疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 247, "text": "晚上心口疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 1}], "relations": []}
+{"id": 248, "text": "不知道怎么搞的老心口疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 249, "text": "这两天动不动就心口疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 250, "text": "我跟家里人说我心口疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 251, "text": "昨天都胸口发闷，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 1}], "relations": []}
+{"id": 252, "text": "晚上胸口发闷，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 253, "text": "不知道怎么搞的老胸口发闷", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 1}], "relations": []}
+{"id": 254, "text": "这两天动不动就胸口发闷", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 255, "text": "我跟家里人说我胸口发闷", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 256, "text": "昨天都胃疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 1}], "relations": []}
+{"id": 257, "text": "晚上胃疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "部位", "id": 1}], "relations": []}
+{"id": 258, "text": "不知道怎么搞的老胃疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 1}], "relations": []}
+{"id": 259, "text": "这两天动不动就胃疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 1}], "relations": []}
+{"id": 260, "text": "我跟家里人说我胃疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 1}], "relations": []}
+{"id": 261, "text": "昨天都心口窝疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 1}], "relations": []}
+{"id": 262, "text": "晚上心口窝疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 263, "text": "不知道怎么搞的老心口窝疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 1}], "relations": []}
+{"id": 264, "text": "这两天动不动就心口窝疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 265, "text": "我跟家里人说我心口窝疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 266, "text": "昨天都胃胀，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 267, "text": "晚上胃胀，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 268, "text": "不知道怎么搞的老胃胀", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 269, "text": "这两天动不动就胃胀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 270, "text": "我跟家里人说我胃胀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 271, "text": "昨天都胃堵得慌，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 272, "text": "晚上胃堵得慌，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 273, "text": "不知道怎么搞的老胃堵得慌", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 274, "text": "这两天动不动就胃堵得慌", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 275, "text": "我跟家里人说我胃堵得慌", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 276, "text": "昨天都反胃，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 277, "text": "晚上反胃，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 278, "text": "不知道怎么搞的老反胃", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 279, "text": "这两天动不动就反胃", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 280, "text": "我跟家里人说我反胃", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 281, "text": "昨天都恶心呕吐，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 282, "text": "晚上恶心呕吐，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 283, "text": "不知道怎么搞的老恶心呕吐", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 284, "text": "这两天动不动就恶心呕吐", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 285, "text": "我跟家里人说我恶心呕吐", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 286, "text": "昨天都打嗝停不了，吓死我了", "entities": [{"start_offset": 3, "end_offset": 8, "label": "疾病", "id": 0}], "relations": []}
+{"id": 287, "text": "晚上打嗝停不了，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 288, "text": "不知道怎么搞的老打嗝停不了", "entities": [{"start_offset": 8, "end_offset": 13, "label": "疾病", "id": 0}], "relations": []}
+{"id": 289, "text": "这两天动不动就打嗝停不了", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 290, "text": "我跟家里人说我打嗝停不了", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 291, "text": "昨天都老是打嗝，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 292, "text": "晚上老是打嗝，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 293, "text": "不知道怎么搞的老老是打嗝", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 294, "text": "这两天动不动就老是打嗝", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 295, "text": "我跟家里人说我老是打嗝", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 296, "text": "昨天都肚子疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 297, "text": "晚上肚子疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 1}], "relations": []}
+{"id": 298, "text": "不知道怎么搞的老肚子疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 299, "text": "这两天动不动就肚子疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 300, "text": "我跟家里人说我肚子疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 1}], "relations": []}
+{"id": 301, "text": "昨天都肚子绞痛，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 1}], "relations": []}
+{"id": 302, "text": "晚上肚子绞痛，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 303, "text": "不知道怎么搞的老肚子绞痛", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 1}], "relations": []}
+{"id": 304, "text": "这两天动不动就肚子绞痛", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 305, "text": "我跟家里人说我肚子绞痛", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 306, "text": "昨天都尿不出来，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 307, "text": "晚上尿不出来，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 308, "text": "不知道怎么搞的老尿不出来", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 309, "text": "这两天动不动就尿不出来", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 310, "text": "我跟家里人说我尿不出来", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 311, "text": "昨天都小便不通，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 312, "text": "晚上小便不通，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 313, "text": "不知道怎么搞的老小便不通", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 314, "text": "这两天动不动就小便不通", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 315, "text": "我跟家里人说我小便不通", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 316, "text": "昨天都拉肚子，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "症状", "id": 1}, {"start_offset": 4, "end_offset": 6, "label": "部位", "id": 2}], "relations": []}
+{"id": 317, "text": "晚上拉肚子，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "症状", "id": 1}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 2}], "relations": []}
+{"id": 318, "text": "不知道怎么搞的老拉肚子", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "症状", "id": 1}, {"start_offset": 9, "end_offset": 11, "label": "部位", "id": 2}], "relations": []}
+{"id": 319, "text": "这两天动不动就拉肚子", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 320, "text": "我跟家里人说我拉肚子", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 2}], "relations": []}
+{"id": 321, "text": "昨天都拉稀，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "症状", "id": 1}], "relations": []}
+{"id": 322, "text": "晚上拉稀，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "症状", "id": 1}], "relations": []}
+{"id": 323, "text": "不知道怎么搞的老拉稀", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "症状", "id": 1}], "relations": []}
+{"id": 324, "text": "这两天动不动就拉稀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}], "relations": []}
+{"id": 325, "text": "我跟家里人说我拉稀", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "症状", "id": 1}], "relations": []}
+{"id": 326, "text": "昨天都大便干，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 327, "text": "晚上大便干，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 328, "text": "不知道怎么搞的老大便干", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 329, "text": "这两天动不动就大便干", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 330, "text": "我跟家里人说我大便干", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 331, "text": "昨天都拉不出来，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 332, "text": "晚上拉不出来，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 333, "text": "不知道怎么搞的老拉不出来", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 334, "text": "这两天动不动就拉不出来", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 335, "text": "我跟家里人说我拉不出来", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 336, "text": "昨天都关节疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 337, "text": "晚上关节疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 338, "text": "不知道怎么搞的老关节疼", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 339, "text": "这两天动不动就关节疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 340, "text": "我跟家里人说我关节疼", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 341, "text": "昨天都手脚麻木，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "部位", "id": 0}, {"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 1}], "relations": []}
+{"id": 342, "text": "晚上手脚麻木，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "部位", "id": 0}, {"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 1}], "relations": []}
+{"id": 343, "text": "不知道怎么搞的老手脚麻木", "entities": [{"start_offset": 8, "end_offset": 10, "label": "部位", "id": 0}, {"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 1}], "relations": []}
+{"id": 344, "text": "这两天动不动就手脚麻木", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 345, "text": "我跟家里人说我手脚麻木", "entities": [{"start_offset": 7, "end_offset": 9, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 1}], "relations": []}
+{"id": 346, "text": "昨天都腰疼，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 5, "label": "部位", "id": 1}], "relations": []}
+{"id": 347, "text": "晚上腰疼，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 4, "label": "部位", "id": 1}], "relations": []}
+{"id": 348, "text": "不知道怎么搞的老腰疼", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 10, "label": "部位", "id": 1}], "relations": []}
+{"id": 349, "text": "这两天动不动就腰疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 1}], "relations": []}
+{"id": 350, "text": "我跟家里人说我腰疼", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 9, "label": "部位", "id": 1}], "relations": []}
+{"id": 351, "text": "昨天都腰酸，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 352, "text": "晚上腰酸，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 353, "text": "不知道怎么搞的老腰酸", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 354, "text": "这两天动不动就腰酸", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 355, "text": "我跟家里人说我腰酸", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 356, "text": "昨天都身上起紫斑，吓死我了", "entities": [{"start_offset": 3, "end_offset": 8, "label": "疾病", "id": 0}], "relations": []}
+{"id": 357, "text": "晚上身上起紫斑，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 358, "text": "不知道怎么搞的老身上起紫斑", "entities": [{"start_offset": 8, "end_offset": 13, "label": "疾病", "id": 0}], "relations": []}
+{"id": 359, "text": "这两天动不动就身上起紫斑", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 360, "text": "我跟家里人说我身上起紫斑", "entities": [{"start_offset": 7, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 361, "text": "昨天都皮下出血，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 362, "text": "晚上皮下出血，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 363, "text": "不知道怎么搞的老皮下出血", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 364, "text": "这两天动不动就皮下出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 365, "text": "我跟家里人说我皮下出血", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 366, "text": "昨天都睡不着，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}, {"start_offset": 3, "end_offset": 6, "label": "症状", "id": 1}], "relations": []}
+{"id": 367, "text": "晚上睡不着，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}, {"start_offset": 2, "end_offset": 5, "label": "症状", "id": 1}], "relations": []}
+{"id": 368, "text": "不知道怎么搞的老睡不着", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}, {"start_offset": 8, "end_offset": 11, "label": "症状", "id": 1}], "relations": []}
+{"id": 369, "text": "这两天动不动就睡不着", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}], "relations": []}
+{"id": 370, "text": "我跟家里人说我睡不着", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}], "relations": []}
+{"id": 371, "text": "昨天都失眠，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 372, "text": "晚上失眠，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 373, "text": "不知道怎么搞的老失眠", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 374, "text": "这两天动不动就失眠", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 375, "text": "我跟家里人说我失眠", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 376, "text": "昨天都脸肿，吓死我了", "entities": [{"start_offset": 3, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 377, "text": "晚上脸肿，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 4, "label": "疾病", "id": 0}], "relations": []}
+{"id": 378, "text": "不知道怎么搞的老脸肿", "entities": [{"start_offset": 8, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 379, "text": "这两天动不动就脸肿", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 380, "text": "我跟家里人说我脸肿", "entities": [{"start_offset": 7, "end_offset": 9, "label": "疾病", "id": 0}], "relations": []}
+{"id": 381, "text": "昨天都眼皮肿，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 382, "text": "晚上眼皮肿，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 383, "text": "不知道怎么搞的老眼皮肿", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 384, "text": "这两天动不动就眼皮肿", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 385, "text": "我跟家里人说我眼皮肿", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 386, "text": "昨天都全身肿，吓死我了", "entities": [{"start_offset": 3, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 387, "text": "晚上全身肿，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 5, "label": "疾病", "id": 0}], "relations": []}
+{"id": 388, "text": "不知道怎么搞的老全身肿", "entities": [{"start_offset": 8, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 389, "text": "这两天动不动就全身肿", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 390, "text": "我跟家里人说我全身肿", "entities": [{"start_offset": 7, "end_offset": 10, "label": "疾病", "id": 0}], "relations": []}
+{"id": 391, "text": "昨天都身体浮肿，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 392, "text": "晚上身体浮肿，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 393, "text": "不知道怎么搞的老身体浮肿", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 394, "text": "这两天动不动就身体浮肿", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 395, "text": "我跟家里人说我身体浮肿", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 396, "text": "昨天都皮肤发黄，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 397, "text": "晚上皮肤发黄，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 398, "text": "不知道怎么搞的老皮肤发黄", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 399, "text": "这两天动不动就皮肤发黄", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 400, "text": "我跟家里人说我皮肤发黄", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 401, "text": "昨天都眼睛发黄，吓死我了", "entities": [{"start_offset": 3, "end_offset": 7, "label": "疾病", "id": 0}], "relations": []}
+{"id": 402, "text": "晚上眼睛发黄，睡觉都不安生", "entities": [{"start_offset": 2, "end_offset": 6, "label": "疾病", "id": 0}], "relations": []}
+{"id": 403, "text": "不知道怎么搞的老眼睛发黄", "entities": [{"start_offset": 8, "end_offset": 12, "label": "疾病", "id": 0}], "relations": []}
+{"id": 404, "text": "这两天动不动就眼睛发黄", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 405, "text": "我跟家里人说我眼睛发黄", "entities": [{"start_offset": 7, "end_offset": 11, "label": "疾病", "id": 0}], "relations": []}
+{"id": 406, "text": "我脑袋这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 407, "text": "脑袋那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 408, "text": "脑袋不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 409, "text": "我脖子这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 410, "text": "脖子那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 411, "text": "脖子不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 412, "text": "我胸口这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 413, "text": "胸口那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 414, "text": "胸口不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 415, "text": "我心口这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 416, "text": "心口那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 417, "text": "心口不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 418, "text": "我肚子这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 419, "text": "肚子那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 420, "text": "肚子不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 421, "text": "我腰这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 422, "text": "腰那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 1, "label": "部位", "id": 0}], "relations": []}
+{"id": 423, "text": "腰不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 1, "label": "部位", "id": 0}, {"start_offset": 6, "end_offset": 9, "label": "症状", "id": 1}, {"start_offset": 6, "end_offset": 9, "label": "部位", "id": 2}, {"start_offset": 11, "end_offset": 15, "label": "症状", "id": 3}], "relations": []}
+{"id": 424, "text": "我手脚这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 425, "text": "手脚那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 426, "text": "手脚不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}
+{"id": 427, "text": "我嗓子这儿不舒服", "entities": [{"start_offset": 1, "end_offset": 3, "label": "部位", "id": 0}], "relations": []}
+{"id": 428, "text": "嗓子那边说不上来的别扭", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}], "relations": []}
+{"id": 429, "text": "嗓子不太舒服,有点晕,还浑身没劲", "entities": [{"start_offset": 0, "end_offset": 2, "label": "部位", "id": 0}, {"start_offset": 7, "end_offset": 10, "label": "症状", "id": 1}, {"start_offset": 7, "end_offset": 10, "label": "部位", "id": 2}, {"start_offset": 12, "end_offset": 16, "label": "症状", "id": 3}], "relations": []}

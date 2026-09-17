@@ -1,0 +1,26 @@
+# 密钥与本地环境
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 本地训练权重（体积大，勿提交 GitHub）
+checkpoint/**/*.pt
+checkpoint/**/*.bin
+checkpoint/**/*.safetensors
+
+# IDE / 系统
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
